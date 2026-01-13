@@ -1,37 +1,57 @@
-# 🐍 Python Practice Programs
+# Python Programs – Logic to Algorithms
 
-This repository contains my Python practice programs that I write while learning and improving my Python skills.  
-I use this space to experiment with concepts, try small ideas, and build a strong foundation in Python programming.
+This repository contains a structured collection of Python programs created for
+strengthening core concepts, logic building, data structures, and algorithms.
 
-This repo is mainly for **learning, consistency, and self-improvement**.
-
----
-
-## 📂 What’s Inside
-
-- Basic Python programs  
-- Practice files for different concepts  
-- Simple examples written while learning  
-- Small scripts created during daily practice  
-
-The code may look simple at some places — that’s intentional.  
-The goal is **clarity over complexity**.
+The goal of this repository is to build a strong Python foundation and showcase
+clean, well-organized code suitable for learning and interview preparation.
 
 ---
 
-## 🛠 Technologies Used
+## 📁 Folder Structure
 
-- Python 3  
-- VS Code  
-- Git & GitHub  
+### 01_core_logic
+Basic Python programs focused on logic building and fundamentals such as loops,
+conditions, strings, numbers, and patterns.
+
+### 02_data_structures
+Programs based on lists, dictionaries, stacks, queues, arrays, and basic problem-solving
+using data structures.
+
+### 03_files_and_exceptions
+File handling programs including reading, writing, searching files, and proper
+exception handling.
+
+### 04_oop_functions
+Object-Oriented Programming concepts implemented through real-world mini projects
+using classes, inheritance, polymorphism, and encapsulation.
+
+### 05_algorithms
+Implementation of searching, sorting, recursion-based problems, and basic algorithm
+analysis.
 
 ---
 
-## ▶️ How to Run the Programs
+## 🛠️ Technologies Used
+- Python 3
+- Git & GitHub
 
-Make sure Python is installed on your system.
+---
 
-Run any file using:
+## 🎯 Purpose
+- Improve problem-solving and logical thinking
+- Build strong Python fundamentals
+- Maintain a clean and professional GitHub profile
+- Prepare for internships, interviews, and higher-level projects
 
-```bash
-python filename.py
+---
+
+## 📌 Note
+Each folder contains a dedicated README explaining the programs inside it.
+All programs are written with clarity and proper naming conventions.
+
+---
+
+## 👤 Author
+Kshitij Chauhan 
+2nd year BCA Student 
